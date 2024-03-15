@@ -1,0 +1,22 @@
+﻿  LeetCode.cpp
+C:\Users\王二方土\source\repos\LeetCode\LeetCode\S11_1.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“LeetCode.cpp”)
+  
+C:\Users\王二方土\source\repos\LeetCode\LeetCode\S11_1.h(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“LeetCode.cpp”)
+  
+C:\Users\王二方土\source\repos\LeetCode\LeetCode\S11_1.h(9,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“LeetCode.cpp”)
+  
+  S11_1.cpp
+C:\Users\王二方土\source\repos\LeetCode\LeetCode\S11_1.h(2,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“S11_1.cpp”)
+  
+C:\Users\王二方土\source\repos\LeetCode\LeetCode\S11_1.h(3,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  (编译源文件“S11_1.cpp”)
+  
+C:\Users\王二方土\source\repos\LeetCode\LeetCode\S11_1.h(9,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“S11_1.cpp”)
+  
+  正在生成代码...
+  LeetCode.vcxproj -> C:\Users\王二方土\source\repos\LeetCode\x64\Debug\LeetCode.exe
