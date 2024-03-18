@@ -2,12 +2,20 @@
 //
 
 #include <iostream>
-#include "S11_1.h"
+#include "S15_1.h"
+#include <vector>;
+using namespace std;
 int main()
 {
-    S11_1* s = new S11_1();
-    vector<int> height = { 1,2,3,0,4,5,6,7 };
-    std::cout << "Area:" << s->maxArea(height);
+    //S11_1* s = new S11_1();
+    //vector<int> height = { 1,2,3,0,4,5,6,7 };
+    //std::cout << "Area:" << s->maxArea(height);
+    vector<int> nums = { 1,2,3,0,4,5,6,-1 };
+    S15_1* s = new S15_1();
+    //s->threeSum(nums);
+    vector<vector<int>> v = s->threeSum(nums);
+    s->printResult(v);
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
